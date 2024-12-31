@@ -473,7 +473,7 @@ Selamat ${greeting} !
 䒘 > /xciospay
 䒘 > /xcsystemui
 ⟣──────────
-> © 𝗦𝘁𝗮𝗿𝗲𝘃𝘅𝘇 2.1
+> © X-TECH BUG 1.0
     `;
 
   const keyboard = [[{
@@ -503,7 +503,7 @@ Selamat ${greeting} !
 䒘 > /statusprem
 䒘 > /status
 ⟣──────────
-> © 𝗦𝘁𝗮𝗿𝗲𝘃𝘅𝘇 2.1
+> © X-TECH BUG 1.0
     `;
 
   const keyboard = [[{
