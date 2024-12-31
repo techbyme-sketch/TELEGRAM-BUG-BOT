@@ -1,7 +1,7 @@
 {
-    "name": "starevxz",
-    "version": "2.1",
-    "description": "starevxzcrasher",
+    "name": "X-TELE-BUG",
+    "version": "1.0",
+    "description": "X-STRAVA-CRASHER",
     "main": "index.js",
     "scripts": {
         "start": "node index.js"
