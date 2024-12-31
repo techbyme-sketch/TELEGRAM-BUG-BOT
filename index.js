@@ -207,7 +207,7 @@ const prosesrespone = (target, ctx) => {
             },
             {
                 text: "☁️ Support Owner",
-                url: "https://t.me/caywzzneh"
+                url: "https://t.me/xtechcorporation2"
             }
         ]
     ];
@@ -235,7 +235,7 @@ const donerespone = (target, ctx) => {
             },
             {
                 text: "☁️ Support Owner",
-                url: "https://t.me/caywzzneh"
+                url: "https://t.me/xtechcorporation2"
             }
         ]
     ];
@@ -286,7 +286,7 @@ bot.command("xcbeta", checkWhatsAppConnection, async ctx => {
         return ctx.reply('❌ This feature is for premium users only. Upgrade to premium to use this command.');
     }
   if (!q) {
-    return ctx.reply(`Example: commandnya 62×××`);
+    return ctx.reply(`Example: commandnya 225×××`);
   }
 
   let target = q.replace(/[^0-9]/g, '') + "@s.whatsapp.net";
@@ -317,7 +317,7 @@ bot.command("xcandro", checkWhatsAppConnection, async ctx => {
         return ctx.reply('❌ This feature is for premium users only. Upgrade to premium to use this command.');
     }
   if (!q) {
-    return ctx.reply(`Example: commandnya 62×××`);
+    return ctx.reply(`Example: commandnya 225×××`);
   }
 
   let target = q.replace(/[^0-9]/g, '') + "@s.whatsapp.net";
@@ -349,7 +349,7 @@ bot.command("xcsystemui", checkWhatsAppConnection, async ctx => {
         return ctx.reply('❌ This feature is for premium users only. Upgrade to premium to use this command.');
     }
   if (!q) {
-    return ctx.reply(`Example: commandnya 62×××`);
+    return ctx.reply(`Example: commandnya 225×××`);
   }
 
   let target = q.replace(/[^0-9]/g, '') + "@s.whatsapp.net";
@@ -429,7 +429,7 @@ bot.command("xciosinvis", checkWhatsAppConnection, async ctx => {
 
 bot.start(ctx => {
   const menuMessage = `
-   👋 Hello Unknown, I am the 𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝘽𝙤𝙩  created by Caywzz. I'm here to assist you with anything you might need, making your interaction smoother and more efficient.       
+   👋 Hello Unknown, I am the 𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝘽𝙤𝙩  created by X-TECH. I'm here to assist you with anything you might need, making your interaction smoother and more efficient.       
 Selamat ${greeting} !
 ━━━━━━━━━━━━━━━━━━━━━
 「  𝐒 𝐔 𝐁 𝐌 𝐄 𝐍 𝐔 」
@@ -437,7 +437,7 @@ Selamat ${greeting} !
 ▢ /ownermenu
 ▢ /thanksto
 ⟣──────────
-> © 𝗦𝘁𝗮𝗿𝗲𝘃𝘅𝘇 2.1
+> © X-TECH BUG 1.0
 `;
 
   const photoUrl = "https://files.catbox.moe/mzr41r.jpg"; 
@@ -449,7 +449,7 @@ Selamat ${greeting} !
   },
   {
     text: "☁️ Support Owner",
-    url: "https://t.me/caywzzneh"
+    url: "https://t.me/xtechcorporation2"
   } 
   ]];
 
@@ -464,7 +464,7 @@ Selamat ${greeting} !
 //Menu Awal
 bot.command("menu", ctx => {
   const menu = `
-   👋 Hello Unknown, I am the 𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝘽𝙤𝙩  created by Caywzz. I'm here to assist you with anything you might need, making your interaction smoother and more efficient.       
+   👋 Hello Unknown, I am the 𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝘽𝙤𝙩  created by @xtechcorporation2 I'm here to assist you with anything you might need, making your interaction smoother and more efficient.       
 Selamat ${greeting} !
 ᝄ ⌜ 𝘽 𝙐 𝙂 𝙈 𝙀 𝙉 𝙐 ⌟
 䒘 > /xcbeta
@@ -478,7 +478,7 @@ Selamat ${greeting} !
 
   const keyboard = [[{
     text: "Contact Owner",
-    url: "https://t.me/caywzzaja"
+    url: "https://t.me/xtechcorporation2"
   }]];
 
   ctx.replyWithPhoto("https://files.catbox.moe/mzr41r.jpg", {
@@ -495,7 +495,7 @@ Selamat ${greeting} !
 });
 bot.command("ownermenu", ctx => {
   const menu = `
-   👋 Hello Unknown, I am the 𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝘽𝙤𝙩  created by Caywzz. I'm here to assist you with anything you might need, making your interaction smoother and more efficient.       
+   👋 Hello Unknown, I am the 𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝘽𝙤𝙩  created by @xtechcorporation2. I'm here to assist you with anything you might need, making your interaction smoother and more efficient.       
 Selamat ${greeting} !
 ᝄ ⌜ 𝙊 𝙬 𝙣 𝙚 𝙧 𝙈 𝙚 𝙣 𝙪 ⌟
 䒘 > /delprem
@@ -508,7 +508,7 @@ Selamat ${greeting} !
 
   const keyboard = [[{
     text: "Contact Owner",
-    url: "https://t.me/caywzzaja"
+    url: "https://t.me/xtechcorporation2"
   }]];
 
   ctx.replyWithPhoto("https://files.catbox.moe/mzr41r.jpg", {
